@@ -29,6 +29,7 @@ type (
 type (
 	ZeroLogHandler        = slogzerolog.ZerologHandler
 	ZeroLogHandlerOptions = slogzerolog.Option
+	ZeroLogConverter      = slogzerolog.Converter
 )
 
 type (
